@@ -20,4 +20,6 @@ Install client-side dependencies--> npm install
 
 Install JSON Server globally (if not already installed)--> npm install -g json-server
 
-Start JSON Server to simulate a REST API-->
+Start JSON Server to simulate a REST API--> json-server --watch db.json --port 3005
+
+In another terminal, start the React application-->npm start
