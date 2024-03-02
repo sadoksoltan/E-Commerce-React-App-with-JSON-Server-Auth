@@ -9,3 +9,7 @@ Contact Management (for administrators)->Administrators can view the list of con
 Order Overview--> Users can see a summary of their order, enter their address, and choose their payment method before placing an order.
 
 The project is structured using React best development practices, with a modular architecture and reusable components. It is accompanied by detailed documentation and an installation guide to facilitate project setup and understanding.
+
+To get started with the project, follow these steps:
+
+Clone the GitHub repository-->git clone https://github.com/sadoksoltan/E-Commerce-React-App-with-JSON-Server-Auth
