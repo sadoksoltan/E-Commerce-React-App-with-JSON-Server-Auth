@@ -26,3 +26,4 @@ In another terminal, start the React application-->npm start
 
 -->json-server-auth db.json --port 3005 -r routes.json
 
+---Don't forget to create the db.json and routes.json files before running json-server-auth. These files are used by json-server-auth to store user data and define the API routes. Make sure to include these files in your project and configure them correctly before launching json-server-auth---
