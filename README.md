@@ -7,3 +7,5 @@ Cart Management-->Users can add, update, and remove products from their shopping
 Form Validation-->The registration and contact forms have validations to ensure correct data entry.
 Contact Management (for administrators)->Administrators can view the list of contacts submitted through the contact form.
 Order Overview--> Users can see a summary of their order, enter their address, and choose their payment method before placing an order.
+
+The project is structured using React best development practices, with a modular architecture and reusable components. It is accompanied by detailed documentation and an installation guide to facilitate project setup and understanding.
