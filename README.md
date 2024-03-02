@@ -18,8 +18,11 @@ Navigate to the project directory --> cd E-Commerce-React-App-with-JSON-Server-A
 
 Install client-side dependencies--> npm install
 
-Install JSON Server globally (if not already installed)--> npm install -g json-server
+Install JSON Server globally (if not already installed)--> npm install -g json-server json-server-auth
 
 Start JSON Server to simulate a REST API--> json-server --watch db.json --port 3005
 
-In another terminal, start the React application-->npm start
+In another terminal, start the React application-->npm start 
+
+-->json-server-auth db.json --port 3005 -r routes.json
+
