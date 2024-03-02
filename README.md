@@ -13,3 +13,11 @@ The project is structured using React best development practices, with a modular
 To get started with the project, follow these steps:
 
 Clone the GitHub repository-->git clone https://github.com/sadoksoltan/E-Commerce-React-App-with-JSON-Server-Auth
+
+Navigate to the project directory --> cd E-Commerce-React-App-with-JSON-Server-Auth
+
+Install client-side dependencies--> npm install
+
+Install JSON Server globally (if not already installed)--> npm install -g json-server
+
+Start JSON Server to simulate a REST API-->
