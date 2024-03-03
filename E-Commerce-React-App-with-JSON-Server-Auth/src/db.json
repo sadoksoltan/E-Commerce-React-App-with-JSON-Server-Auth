@@ -1,0 +1,216 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "15-DH0001NK",
+      "brand": "HP",
+      "category": "Computers",
+      "price": "7689",
+      "description": "Écran 15.6\" Full HD IPS 144 Hz",
+      "createdAt": "2024-02-12T21:04:56.938Z",
+      "fileimg": "https://www.tunisianet.com.tn/148644-large/pc-gamer-hp-omen-i9-tunisie.jpg"
+    },
+    {
+      "id": 5,
+      "name": "SCHNEIDER SCL101BTP",
+      "brand": "SCHNEIDER",
+      "category": "Computers",
+      "price": "249",
+      "description": "kessa7",
+      "createdAt": "2024-02-12T21:11:37.674Z",
+      "fileimg": "https://www.tunisianet.com.tn/289815-large/pcportable-hp-envy-x360-15-ew0002nk-tactile-i5-1240p-20-go-512-go-ssd-silver.jpg"
+    },
+    {
+      "id": 6,
+      "name": "PC PORTABLE ",
+      "brand": "LENOVO",
+      "category": "Computers",
+      "price": "600",
+      "description": "Couleur Gris + Souris RVB Lenovo LOQ M100 - Garantie 2 ans",
+      "createdAt": "2024-02-19T19:53:30.527Z",
+      "fileimg": "https://www.tunisianet.com.tn/345158-large/pc-portable-lenovo-loq-15irh8-i5-12450h-rtx-2050-4g-32-go-gris-avec-souris-rvb-lenovo-loq-m100.jpg"
+    },
+    {
+      "id": 7,
+      "name": "G5MF5",
+      "brand": "GIGABYTE",
+      "category": "Computers",
+      "price": "3649",
+      "description": "Ecran 15.6\" Full HD 144 Hz",
+      "createdAt": "2024-02-25T11:57:06.855Z",
+      "fileimg": "https://www.tunisianet.com.tn/355744-large/pc-portable-gigabyte-g5mf5-i7-13eme-gen-32-go-rtx-4050-6g.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "solta@gmail.com",
+      "password": "$2a$10$8LCVAhuihCOgV8tC8ydSpOl1nCnHlKDomKfFpnMGWV1t0gn1gdGpm",
+      "firstname": "sadok",
+      "lastname": "sadok",
+      "phone": "2311",
+      "address": "dadfza",
+      "confirmPassword": "sadok",
+      "id": 1
+    },
+    {
+      "email": "spdfezfez@gmail.com",
+      "password": "$2a$10$YhsxeHHjquC1BAcuPMnsfO4khSEDS32Unua8aUYLZQNk16tZuzhk.",
+      "firstname": "sadok",
+      "lastname": "sadok",
+      "phone": "651651",
+      "address": "czecf",
+      "confirmPassword": "sadoksoltan",
+      "id": 2
+    },
+    {
+      "email": "sadok@gmail.com",
+      "password": "$2a$10$VMbMUKrCpkKzXmfaFZ4lYORE.SckHdNuHm.jroocWkWv1vRiOorI.",
+      "firstname": "sadok",
+      "lastname": "soltan",
+      "phone": "165165",
+      "address": "saddnj",
+      "confirmPassword": "sadoksoltan",
+      "id": 3
+    },
+    {
+      "email": "soltanaa@gmail.com",
+      "password": "$2a$10$fJgVJi2l6DwlHh31qjV9t.qt93qtshDGbWjBdPUSiJGLLaxHYlRP6",
+      "firstname": "sadok",
+      "lastname": "soltan",
+      "phone": "1655654",
+      "address": "cezc",
+      "confirmPassword": "sadoksoltan",
+      "id": 4
+    },
+    {
+      "email": "danti@gmail.com",
+      "password": "$2a$10$iV4jwTkZeLc9sj0HlsTTFezxIVuwDo8erBVaQB4t8aQfSwJtnE1XO",
+      "firstname": "ali",
+      "lastname": "danti",
+      "phone": "26651651",
+      "address": "sadz",
+      "confirmPassword": "azertyu",
+      "id": 5
+    },
+    {
+      "email": "deee@gmail.com",
+      "password": "$2a$10$efnk4hRgVMpJZ0nNqbzT8OFhM41kv0wFZTNMy6wDqGiPoYWkjrGYm",
+      "firstname": "achraf",
+      "lastname": "solll",
+      "phone": "45696825",
+      "address": "cezhjjh",
+      "id": 6
+    },
+    {
+      "email": "absi@gmail.com",
+      "password": "$2a$10$2T0FTM0FtzMuXkwXr59rE.7PgVyTJNqNqjJKwCQ4Up/2BbIwSWLWK",
+      "firstname": "absi",
+      "lastname": "absi",
+      "phone": "231165515",
+      "address": "sadezd",
+      "role": "admin",
+      "id": 7
+    },
+    {
+      "email": "solaeae@gmail.com",
+      "password": "$2a$10$8nbERFJthn0ByshRNNRZbuFKg5MRdCz/A3T/uU8xArmuLDr5szyZC",
+      "firstname": "sadok",
+      "lastname": "soltane ",
+      "phone": "56897213",
+      "address": "skanes",
+      "id": 8
+    },
+    {
+      "email": "lipo@gm",
+      "password": "$2a$10$RvVzwLHMxAsnMSvLd1oV5.Hr26pp2Xr4mtswziHIAISXwGQvPUmN.",
+      "firstname": "ekuoi",
+      "lastname": "lipo",
+      "phone": "illtere",
+      "address": "zeff",
+      "id": 9
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "dezd",
+      "lastName": "fzf",
+      "email": "dfzef@gmail.com",
+      "phone": "",
+      "subject": "Job Application",
+      "message": "feff",
+      "id": 8
+    },
+    {
+      "firstName": "sadok",
+      "lastName": "soltan",
+      "email": "sada@gmail.com",
+      "phone": "",
+      "subject": "Job Application",
+      "message": "dzadz",
+      "id": 9
+    },
+    {
+      "firstName": "dzad",
+      "lastName": "dzad",
+      "email": "sa@gmail.com",
+      "phone": "56123156",
+      "subject": "Refund Request",
+      "message": "dzd",
+      "id": 10
+    },
+    {
+      "firstName": "sadok20",
+      "lastName": "dzd",
+      "email": "sadok",
+      "phone": "23556111",
+      "subject": "Job Application",
+      "message": "fefeff",
+      "id": 11
+    },
+    {
+      "firstName": "ali",
+      "lastName": "ahmed",
+      "email": "ahmed@gmail.com",
+      "phone": "56123165",
+      "subject": "Refund Request",
+      "message": "aaaaaaflknrfknrklfn",
+      "id": 12
+    },
+    {
+      "firstName": "mohamed",
+      "lastName": "ali",
+      "email": "sss@gmail.com",
+      "phone": "59898874",
+      "subject": "Job Application",
+      "message": "Hello ",
+      "id": 13
+    },
+    {
+      "firstName": "saklek,r",
+      "lastName": "vreqr",
+      "email": "absi@gmail.com",
+      "phone": "23659844",
+      "subject": "Refund Request",
+      "message": "vkvnkernverklvnklrnvklr",
+      "id": 14
+    },
+    {
+      "firstName": "sadok",
+      "lastName": "soltan",
+      "email": "soltanasd@gmail.com",
+      "phone": "23116551",
+      "subject": "Job Application",
+      "message": "help me ",
+      "id": 15
+    },
+    {
+      "firstName": "alaa ",
+      "lastName": "zidi",
+      "email": "zidi@gmail.com",
+      "phone": "56489756",
+      "subject": "Refund Request",
+      "message": "hey there hw u doing",
+      "id": 16
+    }
+  ]
+}

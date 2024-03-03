@@ -1,0 +1,7 @@
+{
+    "routes": {
+      "/users": 600,
+      "/messages": 640,
+      "/products": 644
+    }
+  }

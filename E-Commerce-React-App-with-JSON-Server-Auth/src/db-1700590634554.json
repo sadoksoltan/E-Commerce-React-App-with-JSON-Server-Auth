@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Computers",
+      "price": 549,
+      "description": "MSI Pulse Gaming Laptop: Intel Core i7-12700H",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 2,
+      "name": "Acer Swift",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": 929,
+      "description": "Acer Swift X Creator Laptop Full HD 100% sRGB",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    }
+  ]
+}
