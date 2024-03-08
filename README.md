@@ -1,4 +1,4 @@
-# E-Commerce-React-App-with-JSON-Server-Auth++++++++++++d
+# E-Commerce-React-App-with-JSON-Server-Auth++++++++++++
 Description:
 
 
